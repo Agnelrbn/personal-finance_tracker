@@ -23,13 +23,21 @@ A Python-based personal finance tracker for managing income and expenses from th
 ## Project structure
 
 personal-finance-tracker/
+
 ├── main.py # Entry point, menu loop
+
 ├── database.py # SQLite connection and queries
+
 ├── operations.py # Add income / add expense logic
+
 ├── reports.py # Balance, transaction view, spending by category
+
 ├── validation.py # Input validation helpers
+
 ├── tests/ # Automated tests
+
 ├── .gitignore
+
 └── README.md
 
 
